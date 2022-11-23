@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Jeongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongmin7&show_icons=true&theme=radical)
+
 <!--
 **jeongmin7/jeongmin7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
